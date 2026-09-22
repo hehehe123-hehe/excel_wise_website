@@ -1,6 +1,6 @@
-Open the workbook contained in the folder shown above:
+-- Open the workbook contained in the folder shown above:
 
-Missing rows
+-- Missing rows
 You need to add the new details on rows 9 and 10.
 
 Add the following details in the appropriate columns on row 9:
