@@ -10,6 +10,6 @@
 ### Use this to help you:
 
 > Cakes Needed = (Children in Class * Cakes per child) + 2
->< Copy the formula across and then check it works by changing the Cakes per child figure.
+> * Copy the formula across and then check it works by changing the Cakes per child figure.
 
 ### Choose Save As... to save this file into your new work folder and then close it down.
