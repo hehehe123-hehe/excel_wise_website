@@ -33,7 +33,6 @@ excel-wiseowl/
 Each `notes.md` briefly covers what the exercise practiced, the approach taken, and any formulas or techniques worth remembering.
 
 ## Progress tracker
-
 | Topic | Exercises | Status |
 |---|---|---|
 | Excel basics | 1 | ✅ |
