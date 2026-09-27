@@ -7,11 +7,11 @@
 > * The cells for which you should create range names.
 
 ### Create the following formulae:
-| Cell | Calculates | Range name used | Using formula
-| C4 | Projected sales | Growth | This yeer's sales * Growth %
-| C5 | Projected direct costs | Wages Inc | This Year Direct Costs * Wages inc %
-| C6 | Projected indirect costs | Utilities Inc | This Year Indirect Costs * Utilities inc %
-| C7 | Basic Profits | Growth | Projected Sales - Proj Direct Costs - Proj Indirect Costs
+| Cell | Calculates | Range name used | Using formula |
+| C4 | Projected sales | Growth | This yeer's sales * Growth % |
+| C5 | Projected direct costs | Wages Inc | This Year Direct Costs * Wages inc % |
+| C6 | Projected indirect costs | Utilities Inc | This Year Indirect Costs * Utilities inc % |
+| C7 | Basic Profits | Growth | Projected Sales - Proj Direct Costs - Proj Indirect Costs |
 
 ### Check that all the answers change when you change the figures for the Growth, Wages Inc and Utilities Inc percentage rates:
 > Final figures
