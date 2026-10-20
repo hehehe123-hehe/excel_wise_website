@@ -36,37 +36,37 @@ Each `notes.md` briefly covers what the exercise practiced, the approach taken, 
 | Topic | Exercises | Status |
 |---|---|---|
 | Excel basics | 1 | ✅ |
-| Creating formulae | 10 | ☐ |
-| Formatting worksheets | 6 | ☐ |
-| Basic printing | 4 | ☐ |
-| Charts | 3 | ☐ |
-| Absolute references | 5 | ☐ |
-| Range names | 6 | ☐ |
-| Conditional formulae | 8 | ☐ |
-| Conditional formatting | 2 | ☐ |
-| Basic tables | 6 | ☐ |
-| Formatting numbers and dates | 4 | ☐ |
-| Working with dates | 1 | ☐ |
-| Data validation | 2 | ☐ |
-| Protection | 1 | ☐ |
-| Advanced IFs | 5 | ☐ |
-| Lookup functions | 10 | ☐ |
-| Spill functions | 1 | ☐ |
-| Advanced lookup functions | 4 | ☐ |
-| Text functions | 1 | ☐ |
-| Advanced charts | 4 | ☐ |
-| Multiple worksheets | 1 | ☐ |
-| Advanced tables | 2 | ☐ |
-| Pivot tables / charts | 7 | ☐ |
-| Advanced pivot tables | 3 | ☐ |
-| Scenarios | 2 | ☐ |
-| Data tables | 2 | ☐ |
-| Advanced formulae | 5 | ☐ |
-| Building models | 1 | ☐ |
-| Masking | 1 | ☐ |
-| Cashflow calculations | 1 | ☐ |
-| Investment appraisal | 1 | ☐ |
-| Querying data (Power Query) | 18 | ☐ |
+| Creating formulae | 10 | ✅ |
+| Formatting worksheets | 6 | ✅ |
+| Basic printing | 4 | ✅ |
+| Charts | 3 | ✅ |
+| Absolute references | 5 | ✅ |
+| Range names | 6 | ✅ |
+| Conditional formulae | 8 | ✅ |
+| Conditional formatting | 2 | ✅ |
+| Basic tables | 6 | ✅ |
+| Formatting numbers and dates | 4 | ✅ |
+| Working with dates | 1 | ✅ |
+| Data validation | 2 | ✅ |
+| Protection | 1 | ✅ |
+| Advanced IFs | 5 | ✅ |
+| Lookup functions | 10 | ✅ |
+| Spill functions | 1 | ✅ |
+| Advanced lookup functions | 4 | ✅ |
+| Text functions | 1 | ✅ |
+| Advanced charts | 4 | ✅ |
+| Multiple worksheets | 1 | ✅ |
+| Advanced tables | 2 | ✅ |
+| Pivot tables / charts | 7 | ✅ |
+| Advanced pivot tables | 3 | ✅ |
+| Scenarios | 2 | ✅ |
+| Data tables | 2 | ✅ |
+| Advanced formulae | 5 | ✅ |
+| Building models | 1 | ✅ |
+| Masking | 1 | ✅ |
+| Cashflow calculations | 1 | ✅ |
+| Investment appraisal | 1 | ✅ |
+| Querying data (Power Query) | 18 | ✅ |
 
 **Legend:** ☐ not started · 🔶 in progress · ✅ completed
 
